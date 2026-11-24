@@ -3,6 +3,10 @@
 Writes exactly one letter, Z, to $MAKEFUN_OUTPUT_DIR/entry.txt.
 Z stands for "zero sleep" — the word behind the letter that describes
 the day: vivid, funny, and painfully true.
+
+The entry is a single capital letter, nothing more: no trailing
+newline, no extra characters, just Z — the whole day, summed up in
+one unmistakable letter.
 """
 
 import os
